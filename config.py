@@ -1,0 +1,1 @@
+HF_API_KEY = "Enter_Your_Api_Key"
